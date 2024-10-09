@@ -1,0 +1,12 @@
+#extend list
+
+#to append elements from another list to the current list,
+#use the extend () method.
+
+#add the elements of tropical to this list?
+
+thislist = ["apple","banana","cherry"]
+tropical = ["mango","pineapple","pappaya"]
+thislist.extend(tropical)
+print(thislist)
+
