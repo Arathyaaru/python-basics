@@ -14,7 +14,7 @@
 #A variable name cannot be any of the python keywords
 
 # Legal variable names :
-mYVar = ("arathy")
-my-var = "arathy"
--my-var = "arath_y "
+myVar = ("arathy")
+my_var = "arathy"
+_my_var = "arath_y "
 
